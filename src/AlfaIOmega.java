@@ -3,7 +3,7 @@ import java.util.concurrent.TimeUnit;
 
 public class AlfaIOmega {
 
-    /*static {
+    static {
         System.out.println("Witaj w kreatorze");
         awaiting(3);
         System.out.println("Poczuj się niczym Alfa i Omega");
@@ -13,7 +13,7 @@ public class AlfaIOmega {
         System.out.println("Ale tylko w konteście przychodni medycznych");
         awaiting(1);
         System.out.println("No i tylko przy użyciu dostępnych narzędzi\n");
-    }*/
+    }
 
     private static String opcje = """
             1. Dodaj przychodnię
